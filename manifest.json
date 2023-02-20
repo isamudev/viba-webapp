@@ -1,0 +1,17 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "Viba",
+    "short_name": "Viba",
+    "start_url": "/viba.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A readable Hacker News app.",
+    "icons": [
+      {
+        "src": "https://viba720.mobileinsight.com/assets/images/webclip.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
