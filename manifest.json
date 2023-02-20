@@ -5,7 +5,7 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/viba.html",
+  "scope": "/",
   "start_url": "/viba.html",
   "icons": [
     {
