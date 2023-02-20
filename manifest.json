@@ -3,7 +3,7 @@
   "short_name": "Viba",
   "theme_color": "#fff",
   "background_color": "#fff",
-  "display": "standalone",
+  "display": "fullScreen",
   "orientation": "portrait",
   "scope": "/viba.html",
   "start_url": "/viba.html",
